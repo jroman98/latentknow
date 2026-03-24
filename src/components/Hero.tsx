@@ -51,7 +51,7 @@ export default function Hero() {
         </div>
 
         {/* Right Visual: Abstract Planet & Orbits */}
-        <div className="relative w-full aspect-square max-w-[280px] sm:max-w-[380px] lg:max-w-[500px] mx-auto lg:ml-auto flex items-center justify-center pointer-events-none">
+        <div className="relative w-full aspect-square max-w-[280px] sm:max-w-[380px] lg:max-w-[500px] mx-auto lg:ml-auto flex items-center justify-center pointer-events-none mt-16 sm:mt-20 lg:mt-0">
           {/* Outer glowing halo */}
           <div className="absolute w-full h-full rounded-full bg-accent/5 blur-[100px]" />
 
